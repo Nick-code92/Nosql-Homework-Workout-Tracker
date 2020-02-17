@@ -22,4 +22,7 @@ As a user should be able to:
   * Mongoose
   * Morgan
 
-## Author
+## checkout 
+
+[Heroku](https://safe-chamber-75343.herokuapp.com/)
+[Repository](https://github.com/Nick-code92/Nosql-Homework-Workout-Tr)
